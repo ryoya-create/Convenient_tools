@@ -1,0 +1,2 @@
+﻿//キーボードマクロのファイル
+Grep('test1.test', '*.* !*.html !*.jar', 'C:\\Users\\owner\\Desktop\\ツール\\マルチグレップツール', 25393, 99);	// Grep

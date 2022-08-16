@@ -1,0 +1,23 @@
+�J�n 
+�L�[���[�h�Ftest1.test 
+■"C:\Users\owner\Desktop\ツール\マルチグレップツール\test\test.java"
+・(     1,1    ): test1.testaaa
+・(     4,4    ): aaatest1.test
+■"C:\Users\owner\Desktop\ツール\マルチグレップツール\test\test.txt"
+・(     1,1    ): test1.testaaa
+・(     4,4    ): aaatest1.test
+�L�[���[�h�Ftest2.test 
+■"C:\Users\owner\Desktop\ツール\マルチグレップツール\test\test.java"
+・(     2,1    ): test2.testaaa
+・(     5,4    ): aaatest2.test
+■"C:\Users\owner\Desktop\ツール\マルチグレップツール\test\test.txt"
+・(     2,1    ): test2.testaaa
+・(     5,4    ): aaatest2.test
+�L�[���[�h�Ftest3.test 
+■"C:\Users\owner\Desktop\ツール\マルチグレップツール\test\test.java"
+・(     3,1    ): test3.testaaa
+・(     6,4    ): aaatest3.test
+■"C:\Users\owner\Desktop\ツール\マルチグレップツール\test\test.txt"
+・(     3,1    ): test3.testaaa
+・(     6,4    ): aaatest3.test
+�I�� 
